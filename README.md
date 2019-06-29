@@ -1,6 +1,9 @@
 
 # GitHub Source Code Analysis Portal 
 
+## Deployment
+Visit https://gitanalyzer-darpan.herokuapp.com/
+
 **Team Members:**
  - Abhilasha Saini - asaini4
  - Darpan Dodiya - dpdodiya
@@ -17,5 +20,4 @@
 
 ## [REPORT.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/REPORT.md)
 
-### Deployment
-Visit https://gitanalyzer-darpan.herokuapp.com/
+
