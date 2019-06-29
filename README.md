@@ -3,12 +3,12 @@
 A full stack web application as a part of CSC510 Software Engineering project.
 
 # Tech Stack
-Frontend: Bootstrap and Angular
-Backend: Python, Flask
-Database: PostgreSQL
-Data Analysis: Jupyter Notebooks
-Deployment: Heroku
-CI/CD: GitHub + Heroku Pipelines
+- Frontend: Bootstrap and Angular
+- Backend: Python, Flask
+- Database: PostgreSQL
+- Data Analysis: Jupyter Notebooks
+- Deployment: Heroku
+- CI/CD: GitHub + Heroku Pipelines
 
 ## Deployment
 Visit https://gitanalyzer-darpan.herokuapp.com/
