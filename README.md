@@ -1,7 +1,5 @@
 
-# CSC 510 Project - Team 12
-
-**GitHub Source Code Analysis Portal**
+# GitHub Source Code Analysis Portal 
 
 **Team Members:**
  - Abhilasha Saini - asaini4
