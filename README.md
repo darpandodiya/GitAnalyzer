@@ -12,12 +12,6 @@ A full stack web application as a part of CSC510 Software Engineering project.
 
 ## Deployment
 Visit https://gitanalyzer-darpan.herokuapp.com/
-
-**Team Members:**
- - Abhilasha Saini - asaini4
- - Darpan Dodiya - dpdodiya
- - Ravindersingh Rajpal - rkrajpal
- - Suvodeep Majumder - smajumd3
  
 ## [DESIGN.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/DESIGN.md)
 
@@ -29,4 +23,8 @@ Visit https://gitanalyzer-darpan.herokuapp.com/
 
 ## [REPORT.md](https://github.ncsu.edu/dpdodiya/csc510-project/blob/master/REPORT.md)
 
-
+**Team Members:**
+ - Abhilasha Saini - asaini4
+ - Darpan Dodiya - dpdodiya
+ - Ravindersingh Rajpal - rkrajpal
+ - Suvodeep Majumder - smajumd3
